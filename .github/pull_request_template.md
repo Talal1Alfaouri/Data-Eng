@@ -3,3 +3,4 @@
 - [x] Create `./docs/de/phase0/`
 - [x] Configure PR template
 - [x] Configure CODEOWNERS
+- @Dark-Dmr
