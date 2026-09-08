@@ -1,0 +1,6 @@
+- Initialize documentation structure for Phase 0 (`docs/de/phase0/`).
+- Add pull request template and CODEOWNERS configuration.
+- [x] Create `./docs/de/phase0/`
+- [x] Configure PR template
+- [x] Configure CODEOWNERS
+- @Dark-Dmr
